@@ -4,7 +4,7 @@ title: Natural History Museum online exhibit - Botanical art and illustrations f
 ---
 
 ## Background
-The exhibit displays the botanical drawings and engravings of the _first voyage of James Cook_. The voyage was a commissioned expedition to the South Pacific Ocean from 1768 to 1771. Aboard HMS Endeavour, the voyage departed from Plymouth Dockyard, crossed the Atlantic, rounded Cape Horn, covering New Zealand, east coast of Australia and many other islands(see [Wikipedia](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook)). 
+The exhibit displays the botanical drawings and engravings of the _first voyage of James Cook_. The voyage was a commissioned expedition to the South Pacific Ocean from 1768 to 1771. Aboard HMS Endeavour, the voyage departed from Plymouth Dockyard, crossed the Atlantic, rounded Cape Horn, covering New Zealand, east coast of Australia and many other islands (see [Wikipedia](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook)). 
 
 ## Layout and Functionality
 Both the top and the bottom of the webpage give information about the Natural History Museum, with many more categories for visitors to explore. At the top of the content section, there is an **explanation of the exhibit** following a banner image of one of the artwork. Below the explanation is a **sentence with hyperlink**, offering choices to view by location, by artist or to view all the pieces. 
@@ -18,6 +18,7 @@ By clicking a picture, the visitor will be taken to a **information page**, with
 ## User Experience
 In general, the page is easy to use. The all-picture result page makes viewing experience pleasing, while the information page that popped up after clicking
 a selected picture fulfills the educational purpose. There are multiple ways for the visitor to comodify the results he wishes to see, which is very flexible but can also cause inconvenience at the same time, as some categories are not included in the filter list and can only be accessed through certain page.  
+
 
 ----
 ****
